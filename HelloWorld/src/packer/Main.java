@@ -10,6 +10,8 @@ public class Main {
 		//can anyone see this?
 		//print your name if you can.
 	//	po7r;kug
+		
+		System.out.println("I'm awesome!");
 
 	}
 
